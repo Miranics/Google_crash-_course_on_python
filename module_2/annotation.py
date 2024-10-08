@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import typing
 
 # Define a variable of type str
