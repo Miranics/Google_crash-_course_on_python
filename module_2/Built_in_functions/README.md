@@ -1,5 +1,6 @@
-!#/usr/bin/python
-#### Built-in Functions ####
+#!/usr/bin/python3
+
+Built-in Functions 
 
 print() 
 The print() function outputs a specified object to the screen. The print() function is one of the most commonly used functions in Python because it allows you to output any detail from your code.
