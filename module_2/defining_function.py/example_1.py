@@ -4,4 +4,4 @@ def greeting(name):
     print("Hello, " + name)
 
 greeting("Nanen")
-greeting("Kayla")
+greeting("Joe")
