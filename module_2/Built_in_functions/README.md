@@ -1,4 +1,4 @@
-!#/usr/bin/env bash
+!#/usr/bin/python
 #### Built-in Functions ####
 
 print() 
