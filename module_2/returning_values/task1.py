@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+# this file prints the area of a triangle
 
 def area_triangle(base, height):
     return base * height / 2
